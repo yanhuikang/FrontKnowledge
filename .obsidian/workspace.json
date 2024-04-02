@@ -146,10 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8b56b37f8ef5509",
+  "active": "3fb34a9a80db288f",
   "lastOpenFiles": [
-    "JavaScript/调用堆栈/未命名 1.md",
+    "未命名",
+    "README.md",
     "JavaScript/调用堆栈/执行上下文和执行栈.md",
+    "JavaScript/调用堆栈/未命名 1.md",
     "Welcome.md",
     "JavaScript/调用堆栈",
     "JavaScript"
