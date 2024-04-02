@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "547fd7b0ae0b8aa8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8b56b37f8ef5509",
+  "active": "547fd7b0ae0b8aa8",
   "lastOpenFiles": [
     "浏览器原理/浏览器安全.md",
     "浏览器原理/线程与进程.md",
