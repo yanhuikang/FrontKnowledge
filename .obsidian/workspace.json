@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "浏览器原理/浏览器安全.md",
+                "file": "浏览器原理/线程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "浏览器原理/浏览器安全.md",
+                "file": "浏览器原理/线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浏览器原理/浏览器安全.md",
+                "file": "浏览器原理/线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浏览器原理/浏览器安全.md"
+                "file": "浏览器原理/线程.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8b56b37f8ef5509",
+  "active": "3fb34a9a80db288f",
   "lastOpenFiles": [
-    "JavaScript/调用堆栈/执行上下文和执行栈.md",
     "浏览器原理/浏览器安全.md",
+    "浏览器原理/线程.md",
+    "JavaScript/调用堆栈/执行上下文和执行栈.md",
     "浏览器原理",
     "README.md",
     "JavaScript/调用堆栈/未命名 1.md",
