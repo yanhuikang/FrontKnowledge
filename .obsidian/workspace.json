@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "543cbcbc0875584b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/调用堆栈/执行上下文和执行栈.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "浏览器原理/线程与进程.md",
+                "file": "JavaScript/调用堆栈/执行上下文和执行栈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "浏览器原理/线程与进程.md",
+                "file": "JavaScript/调用堆栈/执行上下文和执行栈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "浏览器原理/线程与进程.md"
+                "file": "JavaScript/调用堆栈/执行上下文和执行栈.md"
               }
             }
           }
@@ -146,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8b56b37f8ef5509",
+  "active": "543cbcbc0875584b",
   "lastOpenFiles": [
     "浏览器原理/浏览器安全.md",
     "浏览器原理/线程与进程.md",
