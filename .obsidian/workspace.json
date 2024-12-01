@@ -16,7 +16,9 @@
                 "file": "浏览器原理/线程与进程.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "线程与进程"
             }
           },
           {
@@ -28,11 +30,37 @@
                 "file": "JavaScript/调用堆栈/执行上下文和执行栈.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "执行上下文和执行栈"
+            }
+          },
+          {
+            "id": "57b0b8bfbae0c49c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "841c4fcbe09b4cff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -52,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -67,7 +97,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -75,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -98,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/调用堆栈/执行上下文和执行栈.md",
+                "file": "浏览器原理/线程与进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "线程与进程 的反向链接列表"
             }
           },
           {
@@ -115,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/调用堆栈/执行上下文和执行栈.md",
+                "file": "浏览器原理/线程与进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "线程与进程 的出链列表"
             }
           },
           {
@@ -129,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -138,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/调用堆栈/执行上下文和执行栈.md"
-              }
+                "file": "浏览器原理/线程与进程.md"
+              },
+              "icon": "lucide-list",
+              "title": "线程与进程 的大纲"
             }
           }
         ]
@@ -159,7 +201,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "543cbcbc0875584b",
+  "active": "841c4fcbe09b4cff",
   "lastOpenFiles": [
     "浏览器原理/浏览器安全.md",
     "浏览器原理/线程与进程.md",
